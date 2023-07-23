@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Crypto-Nexus/static/css/main.a2bd4811.css",
-    "main.js": "/Crypto-Nexus/static/js/main.c2effe4a.js",
-    "index.html": "/Crypto-Nexus/index.html",
-    "main.a2bd4811.css.map": "/Crypto-Nexus/static/css/main.a2bd4811.css.map",
-    "main.c2effe4a.js.map": "/Crypto-Nexus/static/js/main.c2effe4a.js.map"
+    "main.css": "/crypto-nexus/static/css/main.a2bd4811.css",
+    "main.js": "/crypto-nexus/static/js/main.c2effe4a.js",
+    "index.html": "/crypto-nexus/index.html",
+    "main.a2bd4811.css.map": "/crypto-nexus/static/css/main.a2bd4811.css.map",
+    "main.c2effe4a.js.map": "/crypto-nexus/static/js/main.c2effe4a.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bd4811.css",
