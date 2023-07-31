@@ -3,7 +3,7 @@ import Carousel from "./Carousel";
 
 const useStyles = makeStyles((theme) => ({
   banner: {
-    backgroundImage: "url(./network-connectionscop.jpg)",
+    backgroundImage: "url(https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865393.jpg?w=996&t=st=1690819081~exp=1690819681~hmac=237d7ea21f15a64556ca3ec3d858ed324554b40aa6861c0e78b88d20206b8db4)",
   },
   bannerContent: {
     height: 400,
